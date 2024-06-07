@@ -1,0 +1,179 @@
+M:\web api\BSD\BSD\bin\Debug\net7.0\appsettings.Development.json
+M:\web api\BSD\BSD\bin\Debug\net7.0\appsettings.json
+M:\web api\BSD\BSD\bin\Debug\net7.0\BSD.exe
+M:\web api\BSD\BSD\bin\Debug\net7.0\BSD.deps.json
+M:\web api\BSD\BSD\bin\Debug\net7.0\BSD.runtimeconfig.json
+M:\web api\BSD\BSD\bin\Debug\net7.0\BSD.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\BSD.pdb
+M:\web api\BSD\BSD\bin\Debug\net7.0\Azure.Core.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Azure.Identity.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.Extensions.Caching.SqlServer.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.OpenApi.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\System.Drawing.Common.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\System.Memory.Data.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\System.Runtime.Caching.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\System.Security.Permissions.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\System.Windows.Extensions.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web api\BSD\BSD\obj\Debug\net7.0\BSD.csproj.AssemblyReference.cache
+M:\web api\BSD\BSD\obj\Debug\net7.0\BSD.GeneratedMSBuildEditorConfig.editorconfig
+M:\web api\BSD\BSD\obj\Debug\net7.0\BSD.AssemblyInfoInputs.cache
+M:\web api\BSD\BSD\obj\Debug\net7.0\BSD.AssemblyInfo.cs
+M:\web api\BSD\BSD\obj\Debug\net7.0\BSD.csproj.CoreCompileInputs.cache
+M:\web api\BSD\BSD\obj\Debug\net7.0\BSD.MvcApplicationPartsAssemblyInfo.cs
+M:\web api\BSD\BSD\obj\Debug\net7.0\BSD.MvcApplicationPartsAssemblyInfo.cache
+M:\web api\BSD\BSD\obj\Debug\net7.0\staticwebassets.build.json
+M:\web api\BSD\BSD\obj\Debug\net7.0\staticwebassets.development.json
+M:\web api\BSD\BSD\obj\Debug\net7.0\staticwebassets\msbuild.BSD.Microsoft.AspNetCore.StaticWebAssets.props
+M:\web api\BSD\BSD\obj\Debug\net7.0\staticwebassets\msbuild.build.BSD.props
+M:\web api\BSD\BSD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BSD.props
+M:\web api\BSD\BSD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BSD.props
+M:\web api\BSD\BSD\obj\Debug\net7.0\staticwebassets.pack.json
+M:\web api\BSD\BSD\obj\Debug\net7.0\scopedcss\bundle\BSD.styles.css
+M:\web api\BSD\BSD\obj\Debug\net7.0\BSD.csproj.CopyComplete
+M:\web api\BSD\BSD\obj\Debug\net7.0\BSD.dll
+M:\web api\BSD\BSD\obj\Debug\net7.0\refint\BSD.dll
+M:\web api\BSD\BSD\obj\Debug\net7.0\BSD.pdb
+M:\web api\BSD\BSD\obj\Debug\net7.0\BSD.genruntimeconfig.cache
+M:\web api\BSD\BSD\obj\Debug\net7.0\ref\BSD.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\EntityFramework.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\System.CodeDom.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\System.Data.SqlClient.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Humanizer.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+M:\web api\BSD\BSD\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\326133394\Desktop\BSD\BSD\obj\Debug\net7.0\BSD.csproj.AssemblyReference.cache
+C:\Users\326133394\Desktop\BSD\BSD\obj\Debug\net7.0\BSD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\326133394\Desktop\BSD\BSD\obj\Debug\net7.0\BSD.AssemblyInfoInputs.cache
+C:\Users\326133394\Desktop\BSD\BSD\obj\Debug\net7.0\BSD.AssemblyInfo.cs
+C:\Users\326133394\Desktop\BSD\BSD\obj\Debug\net7.0\BSD.csproj.CoreCompileInputs.cache
+C:\Users\326133394\Desktop\BSD\BSD\obj\Debug\net7.0\BSD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\326133394\Desktop\BSD\BSD\obj\Debug\net7.0\BSD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\326133394\Desktop\BSD\BSD\obj\Debug\net7.0\BSD.dll
+C:\Users\326133394\Desktop\BSD\BSD\obj\Debug\net7.0\refint\BSD.dll
+C:\Users\326133394\Desktop\BSD\BSD\obj\Debug\net7.0\BSD.pdb
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\appsettings.json
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\BSD.exe
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\BSD.deps.json
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\BSD.runtimeconfig.json
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\BSD.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\BSD.pdb
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Humanizer.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.Extensions.Caching.SqlServer.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\326133394\Desktop\BSD\BSD\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\326133394\Desktop\BSD\BSD\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\326133394\Desktop\BSD\BSD\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\326133394\Desktop\BSD\BSD\obj\Debug\net7.0\staticwebassets\msbuild.BSD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\326133394\Desktop\BSD\BSD\obj\Debug\net7.0\staticwebassets\msbuild.build.BSD.props
+C:\Users\326133394\Desktop\BSD\BSD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BSD.props
+C:\Users\326133394\Desktop\BSD\BSD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BSD.props
+C:\Users\326133394\Desktop\BSD\BSD\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\326133394\Desktop\BSD\BSD\obj\Debug\net7.0\scopedcss\bundle\BSD.styles.css
+C:\Users\326133394\Desktop\BSD\BSD\obj\Debug\net7.0\BSD.csproj.CopyComplete
+C:\Users\326133394\Desktop\BSD\BSD\obj\Debug\net7.0\BSD.genruntimeconfig.cache
+C:\Users\326133394\Desktop\BSD\BSD\obj\Debug\net7.0\ref\BSD.dll
